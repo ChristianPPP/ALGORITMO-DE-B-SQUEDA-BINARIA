@@ -22,7 +22,7 @@ int main()
 
   algoritmoBurbuja(arreglo1, t);
 
-  busquedaBinaria(arreglo1,t, 5);
+  busquedaBinaria(arreglo1,t, 20);
  
 }
 
